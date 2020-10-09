@@ -6,8 +6,8 @@ blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, hr
 	
 }
 body, button, input, select, textarea, th {
-    color: red;
-    background-color: red;
+    color: #333;
+    background-color: #333;
     font-size: 14px;
     line-height: 1.5;
     font-family: poppin, 'PingFang SC', Tahoma, Arial, \5FAE\8F6F\96C5\9ED1, sans-serif;
