@@ -1,17 +1,13 @@
 @charset "utf-8";
-/**************************************************
- * MKOnlinePlayer v2.41
- * 播放器样式表文件
- * 编写：mengkun(https://mkblog.cn)
- * 时间：2018-3-13
- *************************************************/
+
 blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, hr, html, input, lengend, li, ol, p, pre, td, textarea, th, ul {
     margin: 0;
     padding: 0
+	
 }
 body, button, input, select, textarea, th {
-    color: #333;
-    background-color: #fff;
+    color: red;
+    background-color: red;
     font-size: 14px;
     line-height: 1.5;
     font-family: poppin, 'PingFang SC', Tahoma, Arial, \5FAE\8F6F\96C5\9ED1, sans-serif;
@@ -61,7 +57,7 @@ a:focus, button:focus, input:focus {
 html,body{
     height: 100%;
     width: 100%;
-    background-color: #777970;
+    background-color: red;
     overflow: hidden;
 }
 body {
@@ -74,7 +70,7 @@ body {
     background-image: -o-linear-gradient(200deg, #7f7280, #000000);
     background-image: -ms-linear-gradient(200deg, #7f7280, #000000);
     background-image: linear-gradient(200deg, #7f7280, #000000);
-    
+    <body style="background-color:red;">
     overflow: hidden;
 }
 /* 模糊图像层 */
